@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on go lang weekly games
 - 🌱 I’m currently learning more about solving leetcode hacker rank problems
-- 👯 I’m looking to collaborate on general AI, computer vision, and software
+- 👯 I’m looking to collaborate on generative AI, computer vision, and software
 - 🤔 I’m looking for help with solving leetcode problems 
 - 💬 Ask me about anything new with computer vision
 - 📫 How to reach me: github linkedin
