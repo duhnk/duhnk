@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on general AI, computer vision, and software
 - 🤔 I’m looking for help with solving leetcode problems 
 - 💬 Ask me about anything new with computer vision
-- 📫 How to reach me: on github 
+- 📫 How to reach me: github linkedin
 - 😄 Name: Zel
 - ⚡ Fun fact: Julia Michaels wrote your favorite song for your favorite artist probably. 
 
