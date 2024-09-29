@@ -8,7 +8,7 @@
 </picture>
 
 
-- 🔭 I’m currently working on go lang weekly game
+- 🔭 I’m currently working on go lang weekly games
 - 🌱 I’m currently learning more about solving leetcode hacker rank problems
 - 👯 I’m looking to collaborate on general AI, computer vision, and software
 - 🤔 I’m looking for help with solving leetcode problems 
